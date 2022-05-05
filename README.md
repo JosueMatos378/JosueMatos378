@@ -27,5 +27,3 @@
  <a href="https://discordapp.com/users/689158537233825836" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/josu%C3%A9-matos-4a6945218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-  ![Snake animation](https://github.com/JosueMatos378/JosueMatos378/blob/output/github-contribution-grid-snake.svg)
