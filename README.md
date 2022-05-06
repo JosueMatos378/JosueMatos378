@@ -1,6 +1,6 @@
 ## Olá! Eu sou Josué Matos
 
-- 🔭 Hoje trabalho como suporte para a Alterdata Software
+- 🔭 Hoje trabalho como analista de sistema e suporte para a Alterdata Software
 - 🌱 Estudando HTML, CSS, JavaScript e React
 - 📫 Contate-me no email: matosjosue772@gmail.com
 
