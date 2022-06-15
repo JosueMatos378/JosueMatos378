@@ -5,6 +5,9 @@
 - 📫 Contate-me no email: matosjosue772@gmail.com
 
 
+<p align="center" ><img alt="Kiny-Painel" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
+
+
 <div>
   <a href="https://beacons.ai/JosueMatos378">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueMatos378&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
