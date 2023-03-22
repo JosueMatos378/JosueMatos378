@@ -1,4 +1,4 @@
-## Olá! Eu sou Josué Matos
+## Olá! Eu sou Josué Madureira
 
 - 🔭 Hoje trabalho como analista de sistema na Alterdata Software
 - 🌱 Estudando HTML, CSS, JavaScript e React
