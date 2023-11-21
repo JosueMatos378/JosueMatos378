@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como analista de sistema na Alterdata Software
 - 🌱 Estudando HTML, CSS, JavaScript e React
-- 📫 Contate-me no email: matosjosue772@gmail.com
+- 📫 Contate-me no email: josue_madureira@icloud.com
 
 
 <p align="center" ><img alt="Kiny-Painel" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
