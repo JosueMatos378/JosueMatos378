@@ -1,6 +1,6 @@
 ## Olá! Eu sou Josué Madureira
 
-- 🔭 Hoje trabalho como analista de sistema na Alterdata Software
+- 🔭 Hoje trabalho como T.I na Penha Contabilidade
 - 🌱 Estudando HTML, CSS, JavaScript e React
 - 📫 Contate-me no email: josue_madureira@icloud.com
 
